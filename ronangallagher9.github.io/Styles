@@ -1,0 +1,9 @@
+<img{
+border:8px solid black;
+margin:8px;}
+body{background-color:orange;}
+
+table, th, td {
+  border:1px solid black;
+  width: 50%;
+}
